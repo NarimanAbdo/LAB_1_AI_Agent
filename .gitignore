@@ -1,0 +1,8 @@
+# Keep the API key private
+.env
+
+# Virtual environment
+venv/
+.venv/
+
+__pycache__/
